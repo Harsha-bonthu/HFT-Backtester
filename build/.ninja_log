@@ -1,0 +1,24 @@
+# ninja log v7
+3	79	7872413858210767	E:/new c++/build/CMakeFiles/cmake.verify_globs	77bee51da2d01d9b
+50	873	7872410192256558	CMakeFiles/hft_backtester.dir/src/backtester.cpp.obj	5cb34efd5cb1cb82
+81	909	7872410192566515	CMakeFiles/hft_tests.dir/src/backtester.cpp.obj	e1eaa4d4f0bc7348
+58	971	7872410192326508	CMakeFiles/hft_backtester.dir/src/data_loader.cpp.obj	562d542e74f248e7
+95	995	7872410192696585	CMakeFiles/hft_tests.dir/src/data_loader.cpp.obj	d78dd8586690f2f2
+84	1229	7872413859030709	CMakeFiles/hft_backtester.dir/src/main.cpp.obj	8dd5756022d11ee5
+197	1453	7872410499638261	CMakeFiles/hft_tests.dir/src/main.cpp.obj	653232321e83b921
+1230	1812	7872413870471763	hft_backtester.exe	d03c2c950a9967cf
+83	1035	7872410851509055	CMakeFiles/hft_tests.dir/tests/basic_tests.cpp.obj	a7ff86288efe15c0
+51	975	7872411181531810	CMakeFiles/hft_core.dir/src/data_loader.cpp.obj	12a53f68e1e2685c
+57	1034	7872411181591819	CMakeFiles/hft_core.dir/src/backtester.cpp.obj	770e92ac7ffae455
+1034	1725	7872411191361846	libhft_core.a	ee3e48f0f6a6ad6f
+1780	2764	7872411198818963	hft_tests.exe	fd1a182f5e2e0d09
+90	429	7872415511263076	build.ninja	c93c723443f150ce
+90	429	7872415511153244	E:/new c++/build/cmake_install.cmake	c93c723443f150ce
+3	39	7872415512032991	E:/new c++/build/CMakeFiles/cmake.verify_globs	77bee51da2d01d9b
+4	87	7872415994189700	E:/new c++/build/CMakeFiles/cmake.verify_globs	77bee51da2d01d9b
+92	1017	7872415995069707	CMakeFiles/hft_core.dir/src/advanced_backtester.cpp.obj	7516a44029609233
+1018	1354	7872416004331605	libhft_core.a	c8592f7cdfce4381
+179	2197	7872415995939698	CMakeFiles/hft_advanced.dir/src/main_advanced.cpp.obj	2a817b34ef629ab0
+1355	2247	7872416007699731	hft_backtester.exe	d03c2c950a9967cf
+1418	2324	7872416008329753	hft_tests.exe	fd1a182f5e2e0d09
+2198	2495	7872416016129961	hft_advanced.exe	b08d88437d79eba9
